@@ -1,13 +1,22 @@
 
+// Problem
 
-// A JavaScript program to count number of
-// possible ways to a given score
-// can be reached in a game where a
-// move can earn 3 or 5 or 10
+/*
+	Count the Number of Ways to Reach a Given Score Problem.
+	In a game, a player can score only 3, 5 or 10 points in a move. Given a score of S, find the number of ways to reach the given score using the specified moves.S = 50
+    S = 30
+     S = 22
+*/
+
+
+/*A JavaScript program to count number of
+ possible ways to a given score
+ can be reached in a game where a
+ move can earn 3 or 5 or 10
 
 // Returns number of ways
 // to reach score n
-
+*/
 //Procedure
     //    Step one
     // Create an array table[] of size N+1 to store counts of all scores from 0 to N.
