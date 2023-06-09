@@ -45,7 +45,7 @@ function count(S)
 	return table[S];
 }
 
-// Sample
+// Sample output
 
 	let S = 50;
 	console.log("Count for " + S
